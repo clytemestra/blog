@@ -28,7 +28,11 @@ twitter_username: JGMerchan
 github_username: clytemestra
 
 # Build settings
-theme: dinky
+<<<<<<< HEAD
+theme: jekyll-theme-dinky
+=======
+theme: jekyll-theme-dinky
+>>>>>>> a9a994f45f4a38b5d9934d6147162b5faac2dab4
 plugins:
   - jekyll-feed
 # Exclude from processing.

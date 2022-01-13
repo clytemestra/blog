@@ -28,11 +28,7 @@ twitter_username: JGMerchan
 github_username: clytemestra
 
 # Build settings
-<<<<<<< HEAD
 theme: minima
-=======
-theme: jekyll-theme-dinky
->>>>>>> f352ac5a4e63f6c434e4d62953175e4ce2d38b2b
 plugins:
   - jekyll-feed
 # Exclude from processing.

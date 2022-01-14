@@ -12,4 +12,4 @@ My name is Fred. I am a technical editor in the field of emergency management. I
 
 GitHub dared me to start a blog, so here it is. I'm trying to learn HTML, CSS, and maybe JavaScript, but I keep getting interrupted by learning things like Git, GitHub, Jekyll, and Ruby. I tried to do all this on Linux, but it kept crashing, so I'm hoping I don't break my Mac.
 
-I posted the first few write-ups of my learning experiences so far on my WordPress blog, but they don't really belong there. So, viola. Coming soon. Whatever.
+I posted the first few write-ups of my learning experiences so far on my WordPress blog, but they don't really belong there. So, voila. Coming soon. Whatever.

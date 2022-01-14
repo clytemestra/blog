@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+#About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Fred. I am a technical editor in the field of emergency management. I also freelance copyedit education materials and cloud computing blog posts. I have a husband who codes and two cats who loaf around a lot. Together, we have a house that needs lots of repairs, but it's our first house, so we're not sure how normal that is.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+#About This Blog
 
+GitHub dared me to start a blog, so here it is. I'm trying to learn HTML, CSS, and maybe JavaScript, but I keep getting interrupted by learning things like Git, GitHub, Jekyll, and Ruby. I tried to do all this on Linux, but it kept crashing, so I'm hoping I don't break my Mac.
 
-[jekyll-organization]: https://github.com/jekyll
+I posted the first few write-ups of my learning experiences so far on my WordPress blog, but they don't really belong there. So, viola. Coming soon. Whatever.

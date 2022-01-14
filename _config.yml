@@ -28,7 +28,7 @@ twitter_username: JGMerchan
 github_username: clytemestra
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 github: [metadata]

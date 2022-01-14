@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "A New Thing to Learn"
 date: 2022-01-13 20:15:29 -0600
 categories: jekyll update

@@ -28,10 +28,13 @@ twitter_username: JGMerchan
 github_username: clytemestra
 
 # Build settings
-theme: minima
-theme-color: dark
+#theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#theme-color: dark
+#theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 github: [metadata]
 #minima:
 #  skin: dark

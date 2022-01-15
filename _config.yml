@@ -29,10 +29,10 @@ github_username: clytemestra
 
 # Build settings
 #theme: minima
-theme: minimal-mistakes
-minimal_mistakes_skin: "dark"
-#theme-color: dark
 #theme: minimal-mistakes-jekyll
+#minimal_mistakes_skin: "dark"
+#theme-color: dark
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache

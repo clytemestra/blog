@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![pom](assets/pom.jpg)
+![pom](/assets/pom.jpg)
 
 ## Me
 

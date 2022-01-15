@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Learning Curves"
 categories: learning
 author: Fred Merchan

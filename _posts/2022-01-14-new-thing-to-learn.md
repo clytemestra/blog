@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "New Thing to Learn"
 categories: learning
 author: Fred Merchan

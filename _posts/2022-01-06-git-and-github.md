@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Git and GitHub"
 categories: learning
 author: Fred Merchan

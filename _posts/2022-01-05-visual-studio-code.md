@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Visual Studio Code"
 categories: learning
 author: Fred Merchan

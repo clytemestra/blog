@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![pom](assets/pom.jpg)
+
 ## Me
 
 My name is Fred. I am a technical editor in the field of emergency management. I also freelance copyedit education materials and cloud computing blog posts. I have a husband who codes and two cats who loaf around a lot. Together, we have a house that needs lots of repairs, but it's our first house, so we're not sure how normal that is.

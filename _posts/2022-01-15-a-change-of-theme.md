@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: A Change of Theme
-date: 2022-01-15 19:28 -0600
+date: 2022-01-15 19:28
 categories: learning
 author: Fred Merchan
 show_date: true

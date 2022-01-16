@@ -3,7 +3,7 @@ layout: posts
 title: "Learning Curves"
 categories: learning
 author: Fred Merchan
-date: 2022-01-14 16:15 -0600
+date: 2022-01-14 16:15
 show_date: true
 ---
 

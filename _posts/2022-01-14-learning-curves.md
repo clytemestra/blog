@@ -4,6 +4,7 @@ title: "Learning Curves"
 categories: learning
 author: Fred Merchan
 date: 2022-01-14 16:15 -0600
+show_date: true
 ---
 
 ## Things Learned So Far

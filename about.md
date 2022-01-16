@@ -9,7 +9,7 @@ author_profile: true
 
 ## Fred
 
-I am a technical editor in the field of emergency management. I also freelance copyedit education materials and cloud computing blog posts. I have a husband who codes and two cats who loaf around a lot. Together, we have a house that needs lots of repairs, but it's our first house, so we're not sure how normal that is.
+I am a technical editor in the field of emergency management. I also freelance copyedit education materials and cloud computing blog posts. I have a husband who codes and two cats who loaf around a lot. I get bored easily, and it tends to get me in trouble.
 
 ## This Blog
 

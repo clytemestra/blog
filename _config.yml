@@ -37,6 +37,20 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 github: [metadata]
+author:
+  name: "Fred Merchan"
+  avatar: "/assets/img/fred.jpg"
+  bio: "Bored technical editor learning HTML, CSS, and JavaScript (plus plenty of other unexpected baggage) for fun."
+  links:
+    - label: "Seeds of Knowledge"
+      icon: "fas fa-fw fa-link"
+      url: "https://clytemestra.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jgmerchan"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/clytemestra"
 #minima:
 #  skin: dark
 # Exclude from processing.

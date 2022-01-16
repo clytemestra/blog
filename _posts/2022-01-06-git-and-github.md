@@ -4,6 +4,10 @@ title: "Git and GitHub"
 categories: learning
 author: Fred Merchan
 show_date: true
+excerpt: "So, why GitHub? [...]"
+header:
+  overlay_image: /assets/img/MyGitHubSite.png
+  overlay_filter: 0.5
 ---
 
 So, why GitHub? What does GitHub have to do with these text editors I've been going on about? What is GitHub, even? Well, actually, it all starts with Git.

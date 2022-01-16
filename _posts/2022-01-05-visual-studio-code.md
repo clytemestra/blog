@@ -4,6 +4,10 @@ title: "Visual Studio Code"
 categories: learning
 author: Fred Merchan
 show_date: true
+excerpt: "I loved Atom [...]"
+header:
+  overlay_image: /assets/img/VSCode.png
+  overlay_filter: 0.5
 ---
 
 I loved Atom. I really did. But, for all that I am a copyeditor and proofreader, I can't catch my own errors for the life of me. And, no amount of fiddling behind the scenes could get Atom's spell check to work on my Mac. It worked on the crashy Linux box, but not on my Mac. "Activites" was the straw that broke the camel's back.

@@ -3,9 +3,11 @@ layout: single
 title: About
 permalink: /about/
 author_profile: true
+header:
+  overlay_image: /assets/img/pom.jpg
 ---
 
-![pom](/assets/img/pom.jpg)
+<!-- ![pom](/assets/img/pom.jpg) -->
 
 ## Fred
 

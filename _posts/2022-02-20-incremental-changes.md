@@ -2,7 +2,7 @@
 layout: posts
 title: Incremental Changes
 date: 2022-02-20 10:47 -0600
-categories: update, changes
+categories: updates
 author: Fred Merchan
 show_date: true
 excerpt: "There's not much progress to report[...]"
